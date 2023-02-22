@@ -17,6 +17,9 @@ Je suis actuellement étudiant en formation Développeur Web et Web Mobile chez 
 * Symfony
 * Bootstrap
 
+#### ✉ Me joindre : 
+
+wietrichpierre@gmail.com
 
 
 
