@@ -1,4 +1,4 @@
-<img style="width:100%" src="https://github.com/PierreWTH/PierreWTH/banner.png">
+<img style="width:100%" src="https://github.com/PierreWTH/PierreWTH/blob/master/banner.png">
 
 ### 👋 Bonjour. Je suis Pierre !
 
