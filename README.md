@@ -17,9 +17,17 @@ Je suis actuellement étudiant en formation Développeur Web et Web Mobile chez 
 * Symfony
 * Bootstrap
 
-#### ✉ Me joindre : 
+#### 💬 Me contacter:
 
-wietrichpierre@gmail.com
+<p align="center">
+  <br/>
+  <a href="mailto:wietrichpierre@gmail.com?subject=Bonjour Pierre !" target="_blank">
+    <img alt=" Bouton Mail"  src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
+  </a>
+  <a href="https://www.linkedin.com/in/pierrewietrich/" target="_blank">
+    <img alt="Bouton Linkedin"  src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
+  </a>
+</p>
 
 
 
