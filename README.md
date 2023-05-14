@@ -30,5 +30,5 @@ Je suis actuellement étudiant en formation Développeur Web et Web Mobile chez 
 </p>
 
 #### 📊 Highlights :
-<a align="center" href="https://streak-stats.demolab.com?user=PierreWTH&theme=transparent&stroke=FE5268&ring=FE5268&currStreakNum=FE5268&sideNums=FE5268&dates=000000&currStreakLabel=FE5268&sideLabels=FE5268&fire=FE5268&border=FE5268">
+[![GitHub Streak](https://streak-stats.demolab.com?user=PierreWTH&theme=transparent&stroke=FE5268&ring=FE5268&currStreakNum=FE5268&sideNums=FE5268&dates=000000&currStreakLabel=FE5268&sideLabels=FE5268&fire=FE5268&border=FE5268)]
 
