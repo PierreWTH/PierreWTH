@@ -2,7 +2,7 @@
 
 ### 👋 Bonjour. Je suis Pierre !
 
-Je suis actuellement en Bachelor Concepteur Développeur D'Applications au CESI, en alternance chez <a href="https://www.linkedin.com/in/pierrewietrich/" target="_blank"> Adipso </a>.
+Je suis actuellement en Bachelor Concepteur Développeur D'Applications au CESI, en alternance chez <a href="https://www.adipso.com" target="_blank"> Adipso </a>.
 
 #### ⚡ Technologies :
 
