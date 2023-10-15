@@ -2,8 +2,7 @@
 
 ### 👋 Bonjour. Je suis Pierre !
 
-Je suis actuellement étudiant en formation Développeur Web et Web Mobile chez Elan Formation.
-
+Je suis actuellement en Bachelor Concepteur Développeur D'Applications au CESI, en alternance chez <a href="https://www.linkedin.com/in/pierrewietrich/" target="_blank"> Adipso </a>.
 
 #### ⚡ Technologies :
 
