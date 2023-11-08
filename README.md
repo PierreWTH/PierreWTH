@@ -13,8 +13,9 @@ Je suis actuellement en Bachelor Concepteur Développeur D'Applications au CESI,
 
 #### 🧩 Framework :
 
-* Symfony
-* Bootstrap
+* Symfony 6
+* Vue.js 3
+* API Platform
 
 #### 💬 Me contacter:
 
