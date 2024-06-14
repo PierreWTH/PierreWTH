@@ -6,15 +6,16 @@ Je suis actuellement en Bachelor Concepteur Développeur D'Applications au CESI,
 
 #### ⚡ Technologies :
 
-* PHP 8.2
-* HTML 5 & CSS3
-* JavaScript
-* Python
+* PHP
+* C#
+* Typescript
+* HTML & CSS
 
 #### 🧩 Framework :
 
-* Symfony 6
-* Vue.js 3
+* Symfony 
+* Vue.js
+* React - React Native
 * API Platform
 
 #### 💬 Me contacter:
