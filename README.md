@@ -1,4 +1,4 @@
-<img style="width:100%" src="https://github.com/PierreWTH/PierreWTH/blob/master/banner.png">
+<img style="width:100%" src="https://github.com/PierreWTH/PierreWTH/blob/master/banner.gif">
 
 ### 👋 Bonjour. Je suis Pierre !
 
@@ -6,17 +6,17 @@ Je suis actuellement en Bachelor Concepteur Développeur D'Applications au CESI,
 
 #### ⚡ Technologies :
 
-* PHP
-* C#
-* Typescript
-* HTML & CSS
+- PHP
+- C#
+- Typescript
+- HTML & CSS
 
 #### 🧩 Framework :
 
-* Symfony 
-* Vue.js
-* React - React Native
-* API Platform
+- Symfony
+- Vue.js
+- React - React Native
+- API Platform
 
 #### 💬 Me contacter:
 
