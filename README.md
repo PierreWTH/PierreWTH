@@ -1,8 +1,6 @@
-<img style="width:100%" src="https://github.com/PierreWTH/PierreWTH/blob/master/banner.gif">
-
 ### 👋 Hello !
 
-Currenly  pursuing a Master's degree at Epitech, in apprenticeship at <a href="https://www.adipso.com" target="_blank"> Adipso </a>.
+Interested in every area of software development, as well as cybersecurity. 
 
 #### 📊 Highlights :
 
